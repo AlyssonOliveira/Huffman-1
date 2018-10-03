@@ -1,4 +1,5 @@
 Instruções
+
 Comando para Comprimir:
 huff -c [ARQUIVO]
 
