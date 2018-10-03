@@ -20,6 +20,7 @@ Etapas de construção
 
 
 Testes
+
 1- Teste com arquivos de testes definidos;
 
 2- Teste com arquivos contendo texto qualquer;
